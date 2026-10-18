@@ -1,4 +1,4 @@
-# Иван
+# Ivan T.
 
 **Agentic engineering inside the corporate perimeter** — AI systems from prototype to production.
 
