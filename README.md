@@ -18,10 +18,13 @@ human approval, rollback. Agents, RAG, evals — and the Docker infrastructure t
 
 - **[VisionQwen](https://github.com/tr10ne/visionqwen)** — real-time AI assistant for Meta
   Ray-Ban glasses: Qwen VL vision plus an agentic tool backend. MIT, fork of VisionClaw.
+- **[presentation-service](https://github.com/tr10ne/presentation-service)** — an LLM sends a JSON
+  plan, the service returns an editable .pptx: layout solver, content quality gate, optional
+  FastAPI wrapper. MIT.
 - **[playwright-server](https://github.com/tr10ne/playwright-server)** — headless Chromium in a
   container, driven over Playwright Server WebSocket, with a healthcheck that actually opens a page.
-- **Internal systems (private)** — AI content checking, Telegram digests, presentations built from
-  LLM plans, property-data lookups. Python, FastAPI, Node.js, Docker Compose, CI on GitHub Actions.
+- **Internal systems (private)** — AI content checking, Telegram digests, property-data lookups.
+  Python, FastAPI, Node.js, Docker Compose, CI on GitHub Actions.
 
 ## Stack
 
