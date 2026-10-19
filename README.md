@@ -18,6 +18,8 @@ human approval, rollback. Agents, RAG, evals — and the Docker infrastructure t
 
 - **[VisionQwen](https://github.com/tr10ne/visionqwen)** — real-time AI assistant for Meta
   Ray-Ban glasses: Qwen VL vision plus an agentic tool backend. MIT, fork of VisionClaw.
+- **[gigaam-api](https://github.com/tr10ne/gigaam-api)** — stereo call recording in, speaker-separated
+  transcript out: GigaAM ASR, Silero VAD and per-utterance emotion scores behind FastAPI.
 - **[playwright-server](https://github.com/tr10ne/playwright-server)** — headless Chromium in a
   container, driven over Playwright Server WebSocket, with a healthcheck that actually opens a page.
 - **Internal systems (private)** — AI content checking, Telegram digests, deck generation from
